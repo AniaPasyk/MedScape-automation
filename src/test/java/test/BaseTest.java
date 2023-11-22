@@ -14,7 +14,7 @@ public class BaseTest {
     protected WebDriver driver;
     protected static Logger log = LogManager.getLogger();
 
-    private String pageUrl = "https://medscape-data-uat.roche.com/login";
+    private String pageUrl = "XXXXXXXXX";
 
     @BeforeMethod
     public void openUrl() {
